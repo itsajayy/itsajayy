@@ -36,5 +36,6 @@ You can reach me through:
 
 - LinkedIn: [Ajay Sumukh V.](https://www.linkedin.com/in/ajay-sumukh-v-7b1920214/)
 - Email: [ajaysumukhv@gmail.com](mailto:ajaysumukhv@gmail.com)
+- - Twitter: [@ajaysumukhv](https://twitter.com/ajaysumukhv)
 
 Feel free to connect, and let's chat about all things data! 🚀
